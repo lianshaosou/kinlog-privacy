@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>キンログ サポート</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN", "Yu Gothic", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.7;
+      margin: 0;
+      color: #1f1f1f;
+      background: #fff;
+    }
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 32px 20px 64px;
+    }
+    h1, h2, h3 {
+      line-height: 1.35;
+      margin-top: 1.4em;
+    }
+    h1 {
+      margin-top: 0;
+      font-size: 1.9rem;
+    }
+    h2 {
+      font-size: 1.3rem;
+      border-top: 1px solid #e7e7e7;
+      padding-top: 18px;
+    }
+    .meta {
+      color: #606060;
+      margin: 0.2rem 0;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    .card {
+      border: 1px solid #ececec;
+      border-radius: 12px;
+      padding: 14px 16px;
+      background: #fafafa;
+      margin: 10px 0;
+    }
+    a {
+      color: #0b57d0;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>キンログ サポート</h1>
+    <p class="meta"><strong>アプリ名:</strong> キンログ（Kinlog）</p>
+    <p class="meta"><strong>最終更新日:</strong> [2026年4月]</p>
+    <p>キンログの使い方や不具合に関するお問い合わせは、このページをご確認ください。よくある質問、トラブル対処法、連絡先をまとめています。</p>
+    <h2>お問い合わせ</h2>
+    <div class="card">
+      <p><strong>メール:</strong> <a href="mailto:[lianshao@outlook.jp]">[lianshao@outlook.jp]</a></p>
+      <p><strong>返信目安:</strong> 通常2〜3営業日以内</p>
+      <p><strong>ご連絡時に含めてほしい内容:</strong> iOSバージョン、端末名、アプリバージョン、再現手順</p>
+    </div>
+    <h2>よくある質問</h2>
+    <h3>人物（連絡先）はどうやって追加しますか？</h3>
+    <p>人物一覧画面で <strong>新しい人物を追加</strong> をタップしてください。</p>
+    <h3>ログを人物に紐づけるには？</h3>
+    <p>ログ作成・編集画面で <strong>関わった人</strong> の項目から人物を選択してください。</p>
+    <h3>連絡先の共有はどう動きますか？</h3>
+    <p>アプリ内の共有機能から、選択した連絡先のみを共有できます。共有操作を行ったデータだけが書き出されます。</p>
+    <h3>フォローアップ通知はどう使いますか？</h3>
+    <p>ログでフォローアップを有効にし、通知時刻を設定してください。iOS設定で通知許可も必要です。</p>
+    <h3>アプリロック（Face ID）はどう設定しますか？</h3>
+    <p>キンログの設定画面でアプリロックを有効にしてください。Face ID対応端末では、iOSの許可ダイアログが表示されます。</p>
+    <h3>データのバックアップ方法は？</h3>
+    <p>キンログのバックアップ/エクスポート機能をご利用ください。iCloud連携を有効にしている場合は、Appleアカウント経由で同期されることがあります。</p>
+    <h2>トラブルシューティング</h2>
+    <h3>通知が届かない</h3>
+    <ul>
+      <li>iOS設定 &gt; 通知 &gt; Kinlog で通知を許可してください。</li>
+      <li>アプリ内でフォローアップ時刻が設定されているか確認してください。</li>
+      <li>集中モードで通知が制限されていないか確認してください。</li>
+    </ul>
+    <h3>位置情報が記録されない</h3>
+    <ul>
+      <li>iOS設定 &gt; プライバシーとセキュリティ &gt; 位置情報サービス &gt; Kinlog を確認してください。</li>
+      <li>場所を記録したい場合は位置情報の許可が必要です。</li>
+    </ul>
+    <h3>Face IDでロック解除できない</h3>
+    <ul>
+      <li>iOS設定でKinlogに対するFace ID許可を確認してください。</li>
+      <li>アプリを再起動して再度お試しください。</li>
+      <li>必要に応じて、アプリ内のアプリロックを一度オフにして再設定してください。</li>
+    </ul>
+    <h2>データとプライバシー</h2>
+    <p>データの取り扱いについては、以下のプライバシーポリシーをご確認ください。</p>
+    <p><a href="../PrivacyPolicy/privacy-policy-ja.html">プライバシーポリシー（日本語）を見る</a></p>
+    <h2>対応環境</h2>
+    <p>キンログは、App Storeの配信情報に記載された対応バージョンのiOS/iPadOS端末でご利用いただけます。</p>
+    <h2>不具合報告・機能要望</h2>
+    <p><a href="mailto:[lianshao@outlook.jp]">[lianshao@outlook.jp]</a> 宛に、件名を以下の形式でお送りください。</p>
+    <ul>
+      <li><code>不具合報告 - Kinlog</code></li>
+      <li><code>機能要望 - Kinlog</code></li>
+    </ul>
+  </main>
+</body>
+</html>
